@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /home1/nowdrift/public_html/.smileys/.htpasswd
+require valid-user

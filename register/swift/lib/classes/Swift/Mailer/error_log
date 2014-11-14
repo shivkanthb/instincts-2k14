@@ -1,0 +1,2 @@
+[21-Aug-2013 16:13:04] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 18
+[01-Mar-2014 04:40:38] PHP Fatal error:  Interface 'Swift_Mailer_RecipientIterator' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/Mailer/ArrayRecipientIterator.php on line 18

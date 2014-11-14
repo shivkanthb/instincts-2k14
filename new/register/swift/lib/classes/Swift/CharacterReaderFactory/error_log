@@ -1,0 +1,2 @@
+[21-Aug-2013 16:13:08] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 18
+[01-Mar-2014 04:40:44] PHP Fatal error:  Interface 'Swift_CharacterReaderFactory' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/CharacterReaderFactory/SimpleCharacterReaderFactory.php on line 18

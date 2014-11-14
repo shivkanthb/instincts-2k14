@@ -1,0 +1,42 @@
+<html>
+ <body>
+   <form name="replyform" id="replyform" method="post" action="mail_reply.php">
+   <fieldset>
+    <legend>Instincts Reply Mail Portal</legend>
+    <input type="email" name="to" title="enter a valid email" placeholder="to address" required/><br>
+    <input type="text" name="pname" title="enter name of the contestant" placeholder="candidate name" required/><br>
+    <input type="text" name="subject" title="enter subject" placeholder="subject" required/><br>
+    <textarea columns="200" rows="10" name="body" title="enter body" placeholder="email message" style="width: 614px; height: 209px" required></textarea><br>
+    <input type="submit" value="Send Mail"/>
+    <span id="msgarea" style="display:none"></span>
+   </fieldset>
+   </form>
+   <script src="../javascripts/jquery.js" ></script> 	
+   <script src="../javascripts/jquery.easing.1.3.js" ></script> 
+   <script>
+    $("#replyform").submit(function() {
+
+    var url = "mail_reply.php"; // the script where you handle the form input
+
+    $.ajax({
+           type: "POST",
+           url: url,
+           data: $("#replyform").serialize(), // serializes the form&apos;s elements.
+           success: function(data)
+           {
+               
+               result = JSON.parse(data);
+               document.getElementById("msgarea").style.display="block";
+                // alert(result.mail); 
+                document.getElementById("msgarea").innerHTML=result.msg; // show response from the php script.   
+           }
+         });
+
+    return false; // avoid to execute the actual submit of the form.
+    }); 
+
+  </script>
+ </body>
+</html>
+    
+   

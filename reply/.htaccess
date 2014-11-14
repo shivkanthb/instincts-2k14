@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /etc/zpanel/panel/prashant/.htpasswd
+require valid-user

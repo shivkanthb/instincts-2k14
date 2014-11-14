@@ -1,0 +1,6 @@
+[21-Aug-2013 16:13:08] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 17
+[21-Aug-2013 16:13:08] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 19
+[21-Aug-2013 16:13:08] PHP Fatal error:  Interface 'Swift_ReplacementFilterFactory' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php on line 17
+[01-Mar-2014 04:40:44] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/StreamFilters/StringReplacementFilter.php on line 17
+[01-Mar-2014 04:40:44] PHP Fatal error:  Interface 'Swift_StreamFilter' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/StreamFilters/ByteArrayReplacementFilter.php on line 19
+[01-Mar-2014 04:40:44] PHP Fatal error:  Interface 'Swift_ReplacementFilterFactory' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/StreamFilters/StringReplacementFilterFactory.php on line 17

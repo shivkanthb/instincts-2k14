@@ -1,0 +1,10 @@
+[21-Aug-2013 16:13:07] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 18
+[21-Aug-2013 16:13:07] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/KeyCache/NullKeyCache.php on line 18
+[21-Aug-2013 16:13:07] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/KeyCache/ArrayKeyCache.php on line 18
+[21-Aug-2013 16:13:07] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/KeyCache/KeyCacheInputStream.php on line 18
+[21-Aug-2013 16:13:07] PHP Fatal error:  Interface 'Swift_KeyCache_KeyCacheInputStream' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php on line 18
+[01-Mar-2014 04:40:41] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/KeyCache/NullKeyCache.php on line 18
+[01-Mar-2014 04:40:41] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/KeyCache/DiskKeyCache.php on line 18
+[01-Mar-2014 04:40:41] PHP Fatal error:  Interface 'Swift_KeyCache_KeyCacheInputStream' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php on line 18
+[01-Mar-2014 04:40:41] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/KeyCache/KeyCacheInputStream.php on line 18
+[01-Mar-2014 04:40:42] PHP Fatal error:  Interface 'Swift_KeyCache' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/KeyCache/ArrayKeyCache.php on line 18

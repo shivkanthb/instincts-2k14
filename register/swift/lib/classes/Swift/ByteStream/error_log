@@ -1,0 +1,8 @@
+[21-Aug-2013 16:13:10] PHP Fatal error:  Class 'Swift_ByteStream_AbstractFilterableInputStream' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/ByteStream/FileByteStream.php on line 18
+[21-Aug-2013 16:13:10] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/ByteStream/ArrayByteStream.php on line 18
+[21-Aug-2013 16:13:10] PHP Fatal error:  Class 'Swift_ByteStream_FileByteStream' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php on line 16
+[21-Aug-2013 16:13:10] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php on line 18
+[01-Mar-2014 04:40:43] PHP Fatal error:  Class 'Swift_ByteStream_AbstractFilterableInputStream' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/ByteStream/FileByteStream.php on line 18
+[01-Mar-2014 04:40:43] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/ByteStream/AbstractFilterableInputStream.php on line 18
+[01-Mar-2014 04:40:43] PHP Fatal error:  Interface 'Swift_InputByteStream' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/ByteStream/ArrayByteStream.php on line 18
+[01-Mar-2014 04:40:43] PHP Fatal error:  Class 'Swift_ByteStream_FileByteStream' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/ByteStream/TemporaryFileByteStream.php on line 16

@@ -1,0 +1,4 @@
+[21-Aug-2013 16:13:18] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 18
+[21-Aug-2013 16:13:18] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 18
+[01-Mar-2014 04:40:50] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 18
+[01-Mar-2014 04:40:50] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 18

@@ -1,0 +1,2 @@
+[21-Aug-2013 16:13:17] PHP Fatal error:  Class 'Swift_IoException' not found in /home/foneappz/public_html/ssnparadigm.org/register/swift/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 18
+[01-Mar-2014 04:40:49] PHP Fatal error:  Class 'Swift_IoException' not found in /home1/nowdrift/public_html/instincts.org.in/new/register/swift/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 18
